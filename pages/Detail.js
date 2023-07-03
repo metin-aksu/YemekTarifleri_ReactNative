@@ -28,8 +28,6 @@ export default function Detail({route}) {
     );
   }
 
-  console.log(data.meals);
-
   return (
     <SafeAreaView style={styles.container}>
       <ScrollView>
